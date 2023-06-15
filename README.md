@@ -1,4 +1,4 @@
-# \F4DA About Me:
+# 👩‍💻 About Me:
 Computer Science and Engineering graduate<br>High enthusiasm for technology <br>A quick learner with strong analytic skills<br>
 
 # 💻 Tech Stack:
