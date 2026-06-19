@@ -1,7 +1,7 @@
 <h1 align="center">Himel Mazumder</h1>
 <h3 align="center">Computer Science and Engineering graduate<br>Backend Developer</h3>
 
-- email: **himelmazumder01@gmail.com**
+- email: **himel.mazumder.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
